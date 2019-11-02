@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
+	<Product Id="*" Name="Task 1" Language="1033" Version="2.0.0.0" Manufacturer="ICT Student" UpgradeCode="a48db8fb-8afa-41cd-bf2d-47c6503e8f26">
+		<Package InstallerVersion="200" Compressed="yes" InstallScope="perMachine" />
+
+		<MajorUpgrade DowngradeErrorMessage="A newer version of [ProductName] is already installed." />
+		<MediaTemplate EmbedCab="yes" />
+
+		<Feature Id="ProductFeature" Title="Task 1" Level="1">
+			<ComponentGroupRef Id="ProductComponents" />
+		</Feature>
+	</Product>
+
+	<Fragment>
+		<Directory Id="TARGETDIR" Name="SourceDir">
+			<Directory Id="ProgramFilesFolder">
+				<Directory Id="Swinburne" Name="SWE30004_Task1" />
+			</Directory>
+		</Directory>
+	</Fragment>
+
+	<Fragment>
+		<ComponentGroup Id="ProductComponents" Directory="Swinburne">
+
+      <Component Id ="SWE30004_Task1.exe" Guid="4CC90FD0-FFB0-4D02-9EC3-F07D31D8DA81">
+        <File Id ="SWE30004_Task1.exe" Name="SWE30004_Task1.exe" Source = "$(var.SWE30004_Task1.TargetDir)SWE30004_Task1.exe"></File>
+      </Component>
+
+      <Component Id ="Calculation.dll" Guid="3C4D6621-0AF2-4D87-9D03-4EDE321067D1">
+        <File Id ="Calculation.dll" Name="Calculation.dll" Source = "$(var.SWE30004_Task1.TargetDir)Calculation.dll"></File>
+      </Component>
+
+      <Component Id ="TQBF.dll" Guid="D9F19919-7C5E-4FC9-BD70-CCBF779D68FC">
+        <File Id ="TQBF.dll" Name="TQBF.dll" Source = "$(var.SWE30004_Task1.TargetDir)TQBF.dll"></File>
+      </Component>
+			<!-- TODO: Remove the comments around this Component element and the ComponentRef below in order to add resources to this installer. -->
+			<!-- <Component Id="ProductComponent"> -->
+				<!-- TODO: Insert files, registry keys, and other resources here. -->
+			<!-- </Component> -->
+		</ComponentGroup>
+	</Fragment>
+</Wix>

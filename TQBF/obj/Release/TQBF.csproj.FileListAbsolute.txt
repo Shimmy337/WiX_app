@@ -1,0 +1,4 @@
+E:\micha\Documents\GitHub\Python_Docker_App\WiX_app\TQBF\bin\Release\TQBF.dll
+E:\micha\Documents\GitHub\Python_Docker_App\WiX_app\TQBF\bin\Release\TQBF.pdb
+E:\micha\Documents\GitHub\Python_Docker_App\WiX_app\TQBF\obj\Release\TQBF.dll
+E:\micha\Documents\GitHub\Python_Docker_App\WiX_app\TQBF\obj\Release\TQBF.pdb

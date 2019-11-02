@@ -1,0 +1,5 @@
+E:\micha\Documents\GitHub\Python_Docker_App\WiX_app\TQBF\bin\Debug\TQBF.dll
+E:\micha\Documents\GitHub\Python_Docker_App\WiX_app\TQBF\bin\Debug\TQBF.pdb
+E:\micha\Documents\GitHub\Python_Docker_App\WiX_app\TQBF\obj\Debug\TQBF.csprojAssemblyReference.cache
+E:\micha\Documents\GitHub\Python_Docker_App\WiX_app\TQBF\obj\Debug\TQBF.dll
+E:\micha\Documents\GitHub\Python_Docker_App\WiX_app\TQBF\obj\Debug\TQBF.pdb

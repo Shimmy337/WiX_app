@@ -1,0 +1,4 @@
+E:\micha\Documents\GitHub\Python_Docker_App\WiX_app\Calculation\bin\Debug\Calculation.dll
+E:\micha\Documents\GitHub\Python_Docker_App\WiX_app\Calculation\bin\Debug\Calculation.pdb
+E:\micha\Documents\GitHub\Python_Docker_App\WiX_app\Calculation\obj\Debug\Calculation.dll
+E:\micha\Documents\GitHub\Python_Docker_App\WiX_app\Calculation\obj\Debug\Calculation.pdb

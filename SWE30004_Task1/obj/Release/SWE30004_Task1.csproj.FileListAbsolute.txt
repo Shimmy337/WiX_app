@@ -1,0 +1,14 @@
+E:\micha\Documents\GitHub\Python_Docker_App\WiX_app\SWE30004_Task1\bin\Release\SWE30004_Task1.exe.config
+E:\micha\Documents\GitHub\Python_Docker_App\WiX_app\SWE30004_Task1\bin\Release\SWE30004_Task1.exe
+E:\micha\Documents\GitHub\Python_Docker_App\WiX_app\SWE30004_Task1\bin\Release\SWE30004_Task1.pdb
+E:\micha\Documents\GitHub\Python_Docker_App\WiX_app\SWE30004_Task1\bin\Release\Calculation.dll
+E:\micha\Documents\GitHub\Python_Docker_App\WiX_app\SWE30004_Task1\bin\Release\TQBF.dll
+E:\micha\Documents\GitHub\Python_Docker_App\WiX_app\SWE30004_Task1\bin\Release\Calculation.pdb
+E:\micha\Documents\GitHub\Python_Docker_App\WiX_app\SWE30004_Task1\bin\Release\TQBF.pdb
+E:\micha\Documents\GitHub\Python_Docker_App\WiX_app\SWE30004_Task1\obj\Release\SWE30004_Task1.csprojAssemblyReference.cache
+E:\micha\Documents\GitHub\Python_Docker_App\WiX_app\SWE30004_Task1\obj\Release\SWE30004_Task1.Form1.resources
+E:\micha\Documents\GitHub\Python_Docker_App\WiX_app\SWE30004_Task1\obj\Release\SWE30004_Task1.Properties.Resources.resources
+E:\micha\Documents\GitHub\Python_Docker_App\WiX_app\SWE30004_Task1\obj\Release\SWE30004_Task1.csproj.GenerateResource.cache
+E:\micha\Documents\GitHub\Python_Docker_App\WiX_app\SWE30004_Task1\obj\Release\SWE30004_Task1.csproj.CopyComplete
+E:\micha\Documents\GitHub\Python_Docker_App\WiX_app\SWE30004_Task1\obj\Release\SWE30004_Task1.exe
+E:\micha\Documents\GitHub\Python_Docker_App\WiX_app\SWE30004_Task1\obj\Release\SWE30004_Task1.pdb

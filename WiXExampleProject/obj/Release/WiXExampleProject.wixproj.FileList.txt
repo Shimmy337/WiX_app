@@ -1,0 +1,6 @@
+E:\micha\Documents\GitHub\Python_Docker_App\WiX_app\WiXExampleProject\bin\Release\WiXExampleProject.msi
+E:\micha\Documents\GitHub\Python_Docker_App\WiX_app\WiXExampleProject\bin\Release\WiXExampleProject.wixpdb
+obj\Release\Product.wixobj
+obj\Release\WiXExampleProject.wixproj.BindContentsFileListnull.txt
+obj\Release\WiXExampleProject.wixproj.BindOutputsFileListnull.txt
+obj\Release\WiXExampleProject.wixproj.BindBuiltOutputsFileListnull.txt
